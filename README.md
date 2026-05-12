@@ -22,10 +22,3 @@
 
 - Python 3.6 или выше
 - Tkinter (входит в стандартную библиотеку Python)
-
-## Установка и запуск
-
-1. Клонируйте репозиторий:
-```bash
-git clone https://github.com/Aklouks/password-generator.git
-cd password-generator
